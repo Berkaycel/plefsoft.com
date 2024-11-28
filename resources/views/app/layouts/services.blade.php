@@ -35,7 +35,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
           <div class="services__content">
             <div class="icon d-block fas fa-paper-plane"></div>
-            <h3 class="display-3--title mt-1">Dijital Pazarlama ve Online Reklam Stratejileri</h3>
+            <h3 class="display-3--title mt-1">Dijital Pazarlama Stratejileri</h3>
             <p class="lh-lg">
               Dijital pazarlama stratejileri ile işletmenizi çevrimiçi dünyada büyütün. SEO, sosyal medya yönetimi, Google Ads gibi çözümlerle hedef kitlenize ulaşın ve markanızı güçlendirin. Her işletme için özel pazarlama planları oluşturuyor, çevrimiçi reklamcılıkla hızlı sonuçlar almanızı sağlıyoruz. Dijital pazarlama dünyasında deneyimli ekibimizle etkili ve sürdürülebilir büyüme sağlıyoruz.
             </p>
@@ -60,7 +60,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
           <div class="services__content">
             <div class="icon d-block fas fa-code"></div>
-            <h3 class="display-3--title mt-1">Özel Web Yazılım Geliştirme ve Web Tasarımı</h3>
+            <h3 class="display-3--title mt-1">Web Yazılım Çözümleri</h3>
             <p class="lh-lg">
               Özel yazılım çözümleri ile iş ihtiyaçlarınıza uygun modern, hızlı ve kullanıcı dostu web siteleri tasarlıyoruz. İşletmenizi çevrimiçi dünyada en iyi şekilde temsil etmek için kaliteli web tasarımları ve güçlü yazılım altyapıları sağlıyoruz. Web geliştirme hizmetlerimiz, SEO uyumlu ve mobil dostu sitelerle daha geniş bir kitleye ulaşmanızı sağlar.
             </p>
@@ -75,7 +75,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 services mt-4">
           <div class="services__content">
             <div class="icon d-block fas fa-cloud-upload-alt"></div>
-            <h3 class="display-3--title mt-1">SEO ve Arama Motoru Optimizasyonu Hizmetleri</h3>
+            <h3 class="display-3--title mt-1">SEO Hizmeti</h3>
             <p class="lh-lg">
               Web sitenizi arama motorlarında zirveye taşıyacak stratejik SEO çözümleri sunuyoruz. İçerik optimizasyonu, link inşası ve teknik SEO ile görünürlüğünüzü artırıyoruz. Web siteniz için anahtar kelime optimizasyonu, içerik stratejileri ve site içi SEO uygulamaları ile organik trafik elde edin. SEO hizmetlerimiz sayesinde hedef kitlenize daha kolay ulaşın ve Google sıralamalarında üst sıralara yükselin.
             </p>
