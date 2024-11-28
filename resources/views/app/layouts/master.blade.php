@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="{{asset('assets/css/glightbox.min.css')}}" />
     <script src="{{asset('assets/js/glightbox.min.js')}}"></script>
     <link href="{{asset('assets/css/poppins.css')}}" rel="stylesheet">
+
+    <meta name="description" content="Kurumsal web siteleri, e-ticaret platformları, CRM sistemleri ve backend entegrasyonları için profesyonel yazılım destek hizmetleri.">
+    <meta name="keywords" content="kurumsal web sitesi, e-ticaret yazılımı, CRM sistemleri, backend entegrasyonu, yazılım destek hizmetleri, özel yazılım çözümleri, web tasarım, e-ticaret platformları, işletme yazılımları, yazılım geliştirme, yazılım danışmanlığı, profesyonel yazılım hizmetleri,dijital pazarlama stratejileri, online reklamcılık, sosyal medya yönetimi, özel yazılım geliştirme, SEO uyumlu web tasarımı, Google sıralamaları, organik trafik artırma, arama motoru sıralamaları, çevrimiçi reklam kampanyaları, web tasarım çözümleri">
+    <meta name="author" content="Plefsoft.com">
 </head>
 <body>
 

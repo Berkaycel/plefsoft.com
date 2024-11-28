@@ -1,11 +1,6 @@
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////////
-                            START SECTION 2 - THE INTRO SECTION  
-/////////////////////////////////////////////////////////////////////////////////////////////////////-->
-
 <section id="home" class="intro-section">
     <div class="container">
       <div class="row align-items-center text-white">
-        <!-- START THE CONTENT FOR THE INTRO  -->
         <div class="col-md-6 intros text-start">
           <h1 class="display-2">
             <span class="display-2--intro">Dijital Başarınızın Mimarı Olalım!</span>
@@ -13,9 +8,9 @@
               Web sitenizi hayal gücünüzle şekillendirin, işinizi ileriye taşıyacak çözümlerle buluşun! Kurumsal web sitelerinden e-ticaret platformlarına, CRM sistemlerinden backend entegrasyonlarına kadar ihtiyacınız olan tüm yazılım desteği için buradayız. Şimdi WhatsApp veya e-posta üzerinden bize ulaşın, dijital dönüşümünüzü birlikte başlatalım!
             </span>
           </h1>
-          <button type="button" class="rounded-pill btn-rounded">Get in Touch
+          <a href="#contact" type="button" class="btn rounded-pill btn-rounded" style="max-width: fit-content;">Ücretsiz Destek Alın
             <span><i class="fas fa-arrow-right"></i></span>
-          </button>
+          </a>
         </div>
         <!-- START THE CONTENT FOR THE VIDEO -->
         <div class="col-md-6 intros text-end">
