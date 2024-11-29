@@ -34,8 +34,8 @@
     <i class="fa fa-whatsapp" style="font-size: 3.7rem !important;"></i>
     </a>
 
-    <script src="{{asset('assets/vendors/js/glightbox.min.js')}}"></script>
-    <script type="text/javascript">
+    {{-- <script src="{{asset('assets/vendors/js/glightbox.min.js')}}"></script> --}}
+    {{-- <script type="text/javascript">
             const lightbox = GLightbox({
                 'touchNavigation': true,
                 'href': 'https://www.youtube.com/watch?v=J9lS14nM1xg',
@@ -45,7 +45,7 @@
                 'autoPlayVideos': 'true',
         });
     
-    </script>
+    </script> --}}
     <script src="{{asset('assets/js/bootstrap.bundle.min.js')}}"></script>
 </body>
 </html>
