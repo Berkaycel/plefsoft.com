@@ -14,12 +14,12 @@
           <li class="nav-item"><a class="nav-link" href="#bize-ulasin">Bize Ulaşın</a>
           </li>
         </ul>
-        <button type="button" class="rounded-pill btn-rounded">
-          +90 538 981 8597
+        <a href="tel:+905389818597" type="button" class="btn rounded-pill btn-rounded">
+          Teklif Alın!
           <span>
             <i class="fas fa-phone-alt"></i>
           </span>
-        </button>
+        </a>
       </div>
     </div>
   </nav>

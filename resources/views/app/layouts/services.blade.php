@@ -1,23 +1,21 @@
 <section id="hizmetlerimiz" class="services">
     <div class="container">
       <div class="row text-center">
-        <h1 class="display-3 fw-bold">Our Services</h1>
+        <h1 class="display-3 fw-bold">Hizmetlerimiz</h1>
         <div class="heading-line mb-1"></div>
       </div>
       <div class="row pt-2 pb-2 mt-0 mb-3">
         <div class="col-md-6 border-right">
           <div class="bg-white p-3">
             <h2 class="fw-bold text-capitalize text-center">
-              Our Services Range From Initial Design To Deployment Anywhere Anytime
+              İlk Tasarımdan Sonraki Adımlara Kadar Her Aşamada Yanınızdayız
             </h2>
           </div>
         </div>
         <div class="col-md-6">
           <div class="bg-white p-4 text-start">
             <p class="fw-light">
-              Lorem ipsum dolor sit amet consectetur architecto magni, 
-              dicta maxime laborum temporibus dolorem esse doloremque illo quas nisi enim molestias. 
-              Tempore ducimus molestiae in dolore enim.
+              PlefSoft olarak, hayallerinizi gerçeğe dönüştürmek için tasarımdan yayına kadar eksiksiz destek sunuyoruz. Yenilikçi yazılım çözümleri ve profesyonel ekibimizle işinizi büyütmek için buradayız.
             </p>
           </div>
         </div>

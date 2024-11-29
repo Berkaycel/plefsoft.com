@@ -3,13 +3,10 @@
       <div class="row text-center">
         <h1 class="display-3 fw-bold text-uppercase">Sıkça Sorulan Sorular</h1>
         <div class="heading-line"></div>
-        {{-- <p class="lead">frequently asked questions, get knowledge befere hand</p> --}}
       </div>
-      <!-- ACCORDION CONTENT  -->
       <div class="row mt-5">
         <div class="col-md-12">
           <div class="accordion" id="accordionExample">
-            <!-- ACCORDION ITEM 1 -->
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingOne">
                 <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-weight: 600;">
@@ -22,7 +19,6 @@
                 </div>
               </div>
             </div>
-               <!-- ACCORDION ITEM 2 -->
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingTwo">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="font-weight: 600;">
@@ -35,7 +31,6 @@
                 </div>
               </div>
             </div>
-               <!-- ACCORDION ITEM 3 -->
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="font-weight: 600;">
@@ -48,7 +43,6 @@
                 </div>
               </div>
             </div>
-               <!-- ACCORDION ITEM 4 -->
             <div class="accordion-item shadow mb-3">
               <h2 class="accordion-header" id="headingFour">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" style="font-weight: 600;">
