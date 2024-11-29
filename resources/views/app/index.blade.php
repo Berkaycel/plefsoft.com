@@ -9,5 +9,5 @@
 
   @include('app.layouts.faq')
 
-  @include('app.layouts.get_started')
+  @include('app.layouts.contact')
 @endsection

@@ -4,15 +4,17 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PlefSoft, Bootstrap 5 Landing Page</title>
+    <title>PlefSoft - Kurumsal Web Siteleri ve E-Ticaret Yazılımı</title>
     <link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/fontawesome.css')}}">
     <link rel="stylesheet" href="{{asset('assets/css/glightbox.min.css')}}" />
     <script src="{{asset('assets/js/glightbox.min.js')}}"></script>
     <link href="{{asset('assets/css/poppins.css')}}" rel="stylesheet">
 
-    <meta name="description" content="Kurumsal web siteleri, e-ticaret platformları, CRM sistemleri ve backend entegrasyonları için profesyonel yazılım destek hizmetleri.">
-    <meta name="keywords" content="kurumsal web sitesi, e-ticaret yazılımı, CRM sistemleri, backend entegrasyonu, yazılım destek hizmetleri, özel yazılım çözümleri, web tasarım, e-ticaret platformları, işletme yazılımları, yazılım geliştirme, yazılım danışmanlığı, profesyonel yazılım hizmetleri,dijital pazarlama stratejileri, online reklamcılık, sosyal medya yönetimi, özel yazılım geliştirme, SEO uyumlu web tasarımı, Google sıralamaları, organik trafik artırma, arama motoru sıralamaları, çevrimiçi reklam kampanyaları, web tasarım çözümleri">
+    <meta name="description" content="PlefSoft ile dijital dönüşümde bir adım öne geçin! Kurumsal web siteleri, e-ticaret platformları, CRM sistemleri ve backend entegrasyonlarında uzman çözümler sunuyoruz. SEO uyumlu yazılımlar ve dijital pazarlama stratejileri ile markanızı zirveye taşıyın!">
+    <meta name="keywords" content="kurumsal web sitesi, e-ticaret yazılımı, CRM sistemleri, backend entegrasyonu, özel yazılım çözümleri, web tasarım, yazılım geliştirme, dijital pazarlama stratejileri, SEO uyumlu web tasarımı, organik trafik artırma, arama motoru sıralamaları, çevrimiçi reklam kampanyaları, UX/UI tasarımı, mobil uyumlu web siteleri, dijital dönüşüm, SEO danışmanlığı, içerik yönetim sistemleri (CMS), hızlı web sayfası tasarımı, yerel SEO hizmetleri, e-ticaret site optimizasyonu, SEO dostu içerik oluşturma, b2b yazılım geliştirme, profesyonel yazılım hizmetleri">
+
+
     <meta name="author" content="Plefsoft.com">
 </head>
 <body>
