@@ -1,2 +1,14 @@
+# Google site doğrulaması için gerekli olan kodu ekliyoruz
 User-agent: *
-Disallow:
+Disallow: / 
+
+# Google Search Console site doğrulaması için Google'a izin veriyoruz
+User-agent: Googlebot
+Allow: /google-site-verification=_Ech9H2gD2aj22zOL8GNJrPrnlcq5CCJNiCukJAlB20
+
+# Diğer tüm botlara erişim engellenir, sadece Googlebot izinlidir
+Disallow: / 
+
+# Diğer kullanıcı ajanlarına genel tarama izni veriyoruz
+User-agent: *
+Disallow: / 
