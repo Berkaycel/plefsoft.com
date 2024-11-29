@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark menu shadow fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="">
+      <a class="navbar-brand" href="{{route('index')}}">
         <img src="{{asset('images/plefsoft-logo-white.png')}}" alt="logo image" style="max-width: 150px;">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
