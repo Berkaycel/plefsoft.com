@@ -40,11 +40,13 @@ class ContactController extends Controller
                     "message" => $request->get('message'),
                 ]);
             });
+            flash()->preset('message_received');
             return redirect('/#bize-ulasin');
         } catch (\Throwable $th) {
             Log::error("Kullanıcı mesajı alma işleminde hata oluştu! Hata mesajı: ".$th->getMessage());    
             Log::error("işleme alınan mesaj içeriği: ".json_encode($request->all()));
-            return redirect('/');        
+            flash()->preset('message_receive_error');
+            return redirect('/#bize-ulasin');        
         }
     }
 }
