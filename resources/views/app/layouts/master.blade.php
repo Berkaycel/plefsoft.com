@@ -15,7 +15,7 @@
     <link rel="canonical" href="https://www.plefsoft.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <meta name="description" content="PlefSoft ile dijital dönüşümde bir adım öne geçin! Web siteleri, e-ticaret platformları, CRM sistemleri ve SEO uyumlu çözümler sunuyoruz.">
+    <meta name="description" content="Web siteleri, e-ticaret platformları, CRM ve SEO uyumlu yazılımlarla markanızı güçlendirin. Dijital stratejilerle zirveye çıkın!">
 
     <meta name="keywords" content="kurumsal web sitesi, e-ticaret yazılımı, CRM sistemleri, backend entegrasyonu, özel yazılım çözümleri, web tasarım, yazılım geliştirme, dijital pazarlama stratejileri, SEO uyumlu web tasarımı, organik trafik artırma, arama motoru sıralamaları, çevrimiçi reklam kampanyaları, UX/UI tasarımı, mobil uyumlu web siteleri, dijital dönüşüm, SEO danışmanlığı, içerik yönetim sistemleri (CMS), hızlı web sayfası tasarımı, yerel SEO hizmetleri, e-ticaret site optimizasyonu, SEO dostu içerik oluşturma, b2b yazılım geliştirme, profesyonel yazılım hizmetleri">
 
